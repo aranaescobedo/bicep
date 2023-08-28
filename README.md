@@ -10,14 +10,16 @@
 - [Azure CLI][azure-cli]
 
 ## Usage
-Each script in this folder is designed to perform a specific task with AKS. Before running a script, make sure to replace any placeholders with your own information.
+Before running a script, make sure to replace any placeholders with your own information.
 
 ## Script Descriptions
 
-- **[batchsize]**: XXXX.
+- **[batchsize]**: Code example of how batch size works in Bicep.
+- **[Bicep logo][bicep-logo]**: Download the Azure Bicep logo.
 ## Disclaimer
 Please note that this is provided as-is and may not suit all use cases. Use at your own discretion and make sure to thoroughly test before deployment in a production environment.
 
 [azure-account]: https://azure.microsoft.com/en-us/free
 [azure-cli]: https://docs.microsoft.com/en-us/cli/azure
 [batchsize]:bicep/batchsize
+[bicep-logo]:https://github.com/Azure/bicep/tree/main/docs/images
