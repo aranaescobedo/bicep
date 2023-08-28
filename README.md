@@ -1,6 +1,6 @@
 <p align="center">
- <img width="100px" src=".images/bicep.svg" align="center" alt="Azure Kubernetes Service" />
- <h2 align="center">Azure Kubernetes Service(AKS)</h2>
+ <img width="110px" src=".images/azure-bicep.svg" align="center" alt="Azure Bicep" />
+ <h2 align="center">Azure Bicep</h2>
  <p align="center">This repository contains Bicep code examples and templates designed for educational purposes. Explore and learn how to deploy Azure resources efficiently using Bicep, a domain-specific language for Azure Resource Manager templates. Whether you're new to infrastructure as code or seeking to enhance your Azure skills, these resources aim to facilitate your learning journey</p>
 </p>
 
