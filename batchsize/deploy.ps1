@@ -11,7 +11,7 @@ param(
 )
 
 $getRootDir = git rev-parse --show-toplevel
-Set-Location $getRootDir/bicep/batchSize
+Set-Location $getRootDir/batchSize
 
 az login
 az account set --name $subscriptionName
