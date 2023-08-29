@@ -19,6 +19,7 @@ Before running a script, make sure to replace any placeholders with your own inf
 ## Script Descriptions
 
 - **[batchsize]**: Code example of how batch size works in Bicep.
+  - **Please note:** The provided code sample may succeed without encountering the conflict error message, possibly due to fortunate timing with other ongoing operations. 
 - **[Bicep logo][bicep-logo]**: Download the Azure Bicep logo.
 ## Disclaimer
 Please note that this is provided as-is and may not suit all use cases. Use at your own discretion and make sure to thoroughly test before deployment in a production environment.
